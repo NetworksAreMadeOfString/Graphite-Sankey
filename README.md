@@ -1,6 +1,6 @@
-Graphite-Senkey
+Graphite-Sankey
 ======
-This is a small PHP script that takes a series of Graphite targets to create a Senkey diagram showing flow through your platform
+This is a small PHP script that takes a series of Graphite targets to create a Sankey diagram showing flow through your platform
 
 The source code has been released under the GPL version 3 license.
 
