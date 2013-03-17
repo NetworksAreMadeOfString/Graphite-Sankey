@@ -13,5 +13,5 @@ Features:
 Links:
 --------
 * Email: Gareth@NetworksAreMadeOfString.co.uk
-* GitHub: https://github.com/NetworksAreMadeOfString/Graphite-Senkey
+* GitHub: https://github.com/NetworksAreMadeOfString/Graphite-Sankey
 * Twitter: @NetworkString
